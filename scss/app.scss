@@ -1,0 +1,23 @@
+//base
+@import "./base/_colors.scss";
+
+//layout
+@import "./_layout.sass/animations";
+@import "./_layout.sass/general";
+@import "./_layout.sass/header";
+@import "./_layout.sass/footer";
+@import "./_layout.sass/grid.scss";
+@import "./_layout.sass/forms";
+
+//pages
+@import "./_views.sass/_index.scss";
+@import "./_views.sass/contacto.scss";
+@import "./_views.sass/envianostuconsulta.scss";
+@import "./_views.sass/envianostucv.scss";
+@import "./_views.sass/servicios.scss";
+@import "./_views.sass/sobrenosotros.scss";
+
+
+//vendors
+@import "./vendors/jquery-ui.scss";
+@import "./base/conditionals.scss";

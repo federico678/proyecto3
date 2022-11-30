@@ -1,0 +1,29 @@
+.sobre-nosotros{
+    background-image: $tertiary_color;
+    color: $primary_color;
+}
+.container-costum{
+    margin: 20px auto;
+    width: 90%;
+    max-width: 10000px;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns:repeat(6, 1fr);
+    grid-template-rows: repeat(1, auto);
+}
+.costum1{
+    color:$primary_color;
+}
+.costum2{
+    color:$primary_color;
+}
+.costum3{
+    color:$primary_color;
+}
+.about-us{
+    margin-left:350
+}
+
+.h4aboutus{
+    margin-left: 122
+}

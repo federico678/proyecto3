@@ -1,0 +1,9 @@
+$vista:mobile;
+
+.footer1 .h2footer .footer{
+@if $vista == mobile {
+  background-image: blue;
+  background-color: blue;
+}}
+
+

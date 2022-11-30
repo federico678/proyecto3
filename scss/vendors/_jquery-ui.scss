@@ -1,0 +1,73 @@
+@media screen and (max-width: 768px){
+    .nav2{display:block;
+    position:fixed;
+    width: 100%;}
+    .nav1{display: none;}
+    .footer1{background-color: blue;}
+    .footer{background-color: blue;}
+    .logo{
+        width: 170;
+        height: 170;
+        margin-top: 89;
+    }
+    .imgindex{
+        width: 25;
+        margin-top: 124;
+        margin-bottom:14;
+    }
+    .contactate1{
+        margin-left: 188;
+        height: 11;
+        width: 11;
+    }
+    p{ margin-top: 33;}
+
+    div{display: flex;
+    justify-content: center;
+    }
+
+    .h1index{
+        margin-left: 12;
+    }
+    .container-costum{
+    grid-template-columns:repeat( 1, 1fr);
+}   
+.p-servicios{
+margin-left: 16;
+}
+h4{
+    margin-left: 11;
+}
+.ind1{
+    margin-left: 23;
+}
+.contach2{
+height: 22;
+width: 22;
+}
+
+.about-us{
+    margin-left: 50;
+
+}
+.consultas2{
+    margin-left: 144;
+}
+.consultas1{
+    margin-left: 111;
+}
+.h2footer{
+    margin-left:10
+}
+.h4aboutus{
+    margin-left:10
+}
+.h1service{
+    margin-left: 114;
+}
+.cv1{
+    margin-left: 54;
+}
+.contacto1 {
+    margin-left: 150;
+}}

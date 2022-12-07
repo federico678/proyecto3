@@ -1,11 +1,19 @@
 .footer{
-    background-image: linear-gradient(#311011, black);
+    background-image: linear-gradient(black);
     height: 20px;
     width: 100%;
     margin-top:20;
+    list-style: none;
 
 }
 
+footer{
+    margin-top:10;
+    background-color: $tertiary_color;
+}
 .h2footer{
     margin-left:314;
+    background-color:$tertiary_color ;
+    background-image: $tertiary_color;
 }
+

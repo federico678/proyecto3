@@ -27,7 +27,8 @@
 .fb{
     width:83;
     height: 52;
-    }
+    background-color:black ;
+}
 .tw{
         margin-right:-65;
         width: 66;
@@ -68,9 +69,7 @@ padding:10;
 .fotocontainer2:hover{
     scale:1.1;
 }
-.container1:hover{
-    scale:1.1;
-}
+
 .imgcontactateindex:hover{
     transform:translatey(2px)
 }
@@ -84,16 +83,6 @@ padding:10;
 }
 .contactanosindex:hover{
     transform: translatey(2px);
-}
-
-.foto1:hover{
-    scale:1.4;
-}
-.foto2:hover{
-    scale:1.4;
-}
-.foto3:hover{
-    scale:1.4;
 }
 
 .imgindex:hover{
@@ -129,4 +118,8 @@ h1{
 
 .ind1{
     margin-left: 23;
+}
+
+h2{
+    margin-left: 80;
 }

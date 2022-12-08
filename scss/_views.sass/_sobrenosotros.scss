@@ -13,15 +13,25 @@
 }
 .costum1{
     color:$primary_color;
+    &:hover{
+        scale:1.1;
+    }
 }
 .costum2{
     color:$primary_color;
+    &:hover{
+        scale:1.1;
+    }
 }
 .costum3{
     color:$primary_color;
+    &:hover{
+        scale:1.1;
+    }
 }
 .about-us{
-    margin-left:350
+    margin-left:350;
+    margin-top:20;
 }
 
 .h4aboutus{

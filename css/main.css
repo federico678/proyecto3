@@ -298,6 +298,10 @@ p {
   color: beige;
   background-color: #311011; }
 
+.h4service {
+  padding: 22px;
+  font-family: Arial, Helvetica, sans-serif; }
+
 .sobre-nosotros {
   background-image: linear-gradient(#311011, black);
   color: beige; }
@@ -333,7 +337,8 @@ p {
 
 .h4aboutus {
   margin-left: 122;
-  font-family: Arial, Helvetica, sans-serif; }
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 33px; }
 
 @media screen and (max-width: 768px) {
   .nav2 {
@@ -388,7 +393,8 @@ p {
   .h2footer {
     margin-left: 10; }
   .h4aboutus {
-    margin-left: 10; }
+    margin-left: 10;
+    padding: 22px; }
   .h1service {
     margin-left: 114; }
   .cv1 {
